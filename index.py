@@ -192,7 +192,7 @@ def main():
     """
     logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
-    updater = Updater('1396936138:AAHswkMJrHDZwn-9u_9Jf-_BKzDk2S1peus', use_context=True)
+    updater = Updater('<telegram-bot-key>', use_context=True)
 
     updater.dispatcher.add_handler(CommandHandler('hello', hello))
     updater.dispatcher.add_handler(CommandHandler('start', start))
