@@ -1,0 +1,6 @@
+python-telegram-bot
+google-api-python-client 
+google-auth-httplib2 
+git+https://github.com/Pranjalya/google-auth-library-python-oauthlib#egg=google_auth_oauthlib
+## Uncomment this if working with Python version < 3.8
+# backports-datetime-fromisoformat
