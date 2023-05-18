@@ -16,4 +16,4 @@ Please retrieve these important tokens:
   
   
 
-*For more queries, feel free to contact __[me](https://pranjalyatiwari.kaissa.in)__.*
+*For more queries, feel free to contact __[me](mailto:pranjalyatiwari10@gmail.com)__.*
